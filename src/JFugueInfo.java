@@ -16,7 +16,7 @@ public class JFugueInfo
 	{
 		Player player = new Player(); 
 		
-		player.play("Cq Dbq Eq Fq | Ch Dbq Eq | F#i Di Gh."); //period:dotted_note #:sharp b:flat
+		player.play("C5q Dbq Eq Fq | Ch Dbq Eq | F#i Di Gh."); //period:dotted_note #:sharp b:flat
 	    
 		//player.play("E5s A5s C6s B5s E5s B5s D6s C6i E6i G#5i E6i | A5s E5s A5s C6s B5s E5s B5s D6s C6i A5i Ri");//this sounds better
 		
