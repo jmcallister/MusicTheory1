@@ -16,11 +16,11 @@ public class JFugueInfo
 	{
 		Player player = new Player(); 
 		
-		player.play("C5q Dbq Eq Fq | Ch Dbq Eq | F#i Di Gh."); //period:dotted_note #:sharp b:flat
+		//player.play("C5q Dbq Eq Fq | Ch Dbq Eq | F#i Di Gh."); //period:dotted_note #:sharp b:flat
 	    
-		player.play("E5s A5s C6s B5s E5s B5s D6s C6i E6i G#5i E6i | A5s E5s A5s C6s B5s E5s B5s D6s C6i A5i Ri");//this sounds better
+		//player.play("E5s A5s C6s B5s E5s B5s D6s C6i E6i G#5i E6i | A5s E5s A5s C6s B5s E5s B5s D6s C6i A5i Ri");//this sounds better
 		
-		//player.play("V0 C4w | G4w | C4w " + "V1 Ew | Dw | Dq. Eh.. " + "V2 Gw | Bw | Gw"); //multiple parts...V1 has a suspension!
+		player.play("V0 C4w | G4w | C4w V1 Ew | Dw | Dq. Eh.. " + "V2 Gw | Bw | Gw"); //multiple parts...V1 has a suspension!
 		//number after note specifies octave (range 1-9; C4 is middle C
 	}
 
