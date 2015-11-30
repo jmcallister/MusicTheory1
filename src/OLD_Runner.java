@@ -4,7 +4,7 @@ import org.jfugue.*;
  * I created the Song.java entirely from scratch today...poorly structured but still should help get you an idea
  * RUN THIS 3-5 times 
  */
-public class Runner 
+public class OLD_Runner 
 {
 	public static void main(String[] args) 
 	{
